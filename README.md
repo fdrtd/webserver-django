@@ -1,6 +1,5 @@
 ![license](https://img.shields.io/github/license/fdrtd/webserver-django)
 ![CodeQL](https://github.com/fdrtd/webserver-django/workflows/CodeQL/badge.svg)
-![unittest](https://raw.githubusercontent.com/fdrtd/webserver-django/main/.github/badges/tests.svg)
 ![Pylint](https://raw.githubusercontent.com/fdrtd/webserver-django/main/.github/badges/pylint.svg)
 
 
